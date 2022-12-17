@@ -28,5 +28,5 @@ http://localhost:8080/ships
 
 http://localhost:8080/positions/9632179/
 
-app.py is the main pythong file where the pythong codes are written
+app.py is the main python file where the python codes are written
 
