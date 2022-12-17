@@ -1,4 +1,4 @@
-
+Python version used is - Python 3.10.8
 I have used bottle for creating the rest API
 
 Hence we need to install bottle using below command
